@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skooltch84.github.io/firstmarker/sitemap.xml
